@@ -11,14 +11,14 @@ text-align: center;
 background-color: Lightblue;
 }
 
-title{text-align:center;
+title{
+text-align:center;
 }
 h1,h2{
 border-style: solid;
 }
 
-h3{
-text-decoration: underline:
+h3{text-decoration: underline;
 text-decoration-color: black;
 }
 
