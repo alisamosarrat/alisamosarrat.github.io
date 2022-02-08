@@ -1,21 +1,24 @@
-h1{ color: powderblue;
-text-decoration: underline;
-    text-align: center;}
+.main {
+display:block;
+margin-left:auto;
+margin-right:auto;
+width: 150px;
+border-radius: 5px;
+}
 
-h2{ color:pink;
-   font-family: 'PT Sans Narrow', sans-serif;
-   font-size: 20px;
-   text-decoration: underline;
-     text-align: center;}
+body{
+text-align: center;
+background-color: Lightblue;
+}
 
-p{color: #B3EDFB;
-text-decoration: none;
-    font-family: 'Yuji Mai', serif;
-    font-size: 20px;
-    text-align: center;}
-.center{ display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 150px;}
+title{text-align:center;
+}
+h1,h2{
+border-style: solid;
+}
 
- body{background:pink;}
+h3{
+text-decoration: underline:
+text-decoration-color: black;
+}
+
