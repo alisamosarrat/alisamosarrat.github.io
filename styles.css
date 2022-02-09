@@ -1,0 +1,32 @@
+.main {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 150px;
+    border-radius: 5px;
+}
+
+body{
+  text-align: center;
+    background-color:pink;
+}
+
+title{
+    text-align:center;
+}
+
+h1,h2{
+    border-style: dotted;
+    font-family: 'Source Serif 4', sans-serif;
+    color: white;
+    border-color:yellow;
+}
+
+h3{text-decoration: underline;
+		text-decoration-color: white;
+    color:purple;
+}
+
+:hover{
+background-color: powderblue;}
+
